@@ -19,3 +19,4 @@ GitHub Link:
 
 
 Thank you for this super-impacting initiative.
+- [ ] I wish to donate for your efforts, time and support.
