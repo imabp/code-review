@@ -19,4 +19,4 @@ GitHub Link:
 
 
 Thank you for this super-impacting initiative.
-- [ ] I wish to donate for your efforts, time and support.
+- [ ] I wish to donate [here](https://www.buymeacoffee.com/imabp) for your efforts, time, and support.
